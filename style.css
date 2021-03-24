@@ -1,0 +1,32 @@
+body {
+  text-align: center;
+}
+
+#timer {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-size: 6rem;
+  letter-spacing: 0.5rem;
+}
+
+#wordboxes {
+  display: flex;
+  justify-content: space-between;
+  width: 70vmax;
+  margin: auto;
+}
+
+.letter-box {
+  /* box-sizing: content-box; */
+  /* margin: 8px; */
+  width: 60px;
+  height: 90px;
+  font-size: 4rem;
+  border: 3px solid black;
+  /* padding: 0 6px; */
+}
+
+/* media q's
+font size
+margin?
+
+*/
